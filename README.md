@@ -150,8 +150,8 @@
             <li class="menu-item">
                 <span class="dept-title">Departamento 3</span>
                 <div class="btn-group">
-                    <a href="tel:+5491112345678" class="btn btn-call">📞 Llamar</a>
-                    <a href="https://wa.me/5491112345678" target="_blank" class="btn btn-wa">💬 WhatsApp</a>
+                    <a href="tel:+5491133346212" class="btn btn-call">📞 Llamar</a>
+                    <a href="https://wa.me/5491133346212" target="_blank" class="btn btn-wa">💬 WhatsApp</a>
                 </div>
             </li>
 
